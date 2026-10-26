@@ -11,7 +11,7 @@ Pelles C 的界面语言通过语言包（`Intl\rsrc{LCID}.dll`）扩展，本�
 ## 如何使用
 
 1. **获取语言包：**
-   在仓库里打开 [rsrc0804/rsrc0804.dll](./rsrc0804/rsrc0804.dll)，点击 *Download* 按钮下载。
+   前往 [Releases 页面](https://github.com/jackzhu/pellesc-langpack/releases)，在最新版本下下载附件 `rsrc0804.dll`。
 
 2. **复制到 Intl 目录：**
    将 `rsrc0804.dll` 复制到 Pelles C 安装目录下的 `Bin\Intl\`，默认完整路径：
