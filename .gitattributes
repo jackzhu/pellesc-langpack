@@ -1,0 +1,7 @@
+# 资源脚本是 UTF-16 LE + BOM —— 绝不进行行尾/编码转换
+*.rc -text
+
+# 二进制资源
+*.png binary
+*.dll binary
+*.res binary
